@@ -79,7 +79,7 @@ const Home = () => {
           </button>
           <button
             className="page-button"
-            disabled={currentPage * PAGE_SIZE + PAGE_SIZE >= totalCount}
+            disabled={currentPage * PAGE_SIZE >= totalCount}
             onClick={() => handleNextPageOnClick()}
           >
             Next Page

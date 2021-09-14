@@ -2,6 +2,9 @@
   padding: 10px;
 }
 
+.page-button:disabled {
+  background: lightslategray;
+}
 .page-button {
   margin-right: 1px;
   margin-bottom: 10px;
@@ -18,12 +21,11 @@
   color: white;
   border-left: 4px solid #111d5e;
 }
-
-.page-button:hover {
+.page-button:hover:enabled {
   background-color: #dcdde9;
   color: #111d5e;
 }
-.page-button:active {
+.page-button:active:enabled {
   background-color: #091c4353;
   box-shadow: 0 5px #dcdde9;
   transform: translateY(4px);
