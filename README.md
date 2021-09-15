@@ -1,6 +1,10 @@
 # book-search-tool-web
 
-## [Live Demo](http://book-search.s3-website-us-east-1.amazonaws.com/)
+## Live Demo
+
+http://book-search.s3-website-us-east-1.amazonaws.com/
+
+## Run Locally
 
 ### `npm start`
 
