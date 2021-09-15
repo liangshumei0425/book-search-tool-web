@@ -59,7 +59,8 @@
          "ERC1155"
       ]
    },
-   "reactJsExperienceInYears": 3
+   "reactJsExperienceInYears": 3,
+   "resumeUrl": "https://github.com/liangshumei0425/book-search-tool-web/blob/main/Crystal%20Resume%20.pdf"
 }
 ```
 
