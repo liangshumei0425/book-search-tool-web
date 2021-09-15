@@ -35,6 +35,12 @@
 ```
 
 #### 3.	How would you track down a performance issue in production? Have you ever had to do this?
+> I mostly use Network and Performance tabs in Chrome Developer Tool to debug and test. The Network tab shows how fast APIs and resource downloads are and Performance can generate generic reports for me to understance in highlevel how my site performs. For example, in this project, I had to add pagination after noticing that the __/search__ API takes too long in the Network tab. In some rare cases, I had to add timestamp in component rendering lifecycle steps to understand why something is slow.
+
+
+#### 4.	How would you improve the API that you just used?
+#### 5.	Please describe yourself using correctly formatted JSON.
+
 
 
 
